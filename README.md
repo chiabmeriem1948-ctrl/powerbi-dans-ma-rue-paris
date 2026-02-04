@@ -55,4 +55,6 @@ L’étude porte sur la période **de juin à août 2025**.
 
 ## Finalité
 Cette analyse fournit une base d’aide à la décision pour :
-- cibler les zon
+- cibler les zones d’intervention prioritaires,
+- anticiper les périodes de forte activité,
+- améliorer l’efficacité des actions sur l’espace public parisien.
